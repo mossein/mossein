@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything computer related!
 - 🌱 I’m currently studying computer science (3rd year)
 - 💞️ I’m looking to collaborate on anything that I might be helpful
-- 📫 moosheashpaz@gmail.com
+- 📫 me@mohammad.page
 
 <!---
 mossein/mossein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
