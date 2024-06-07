@@ -1,1 +1,1 @@
-You can reach me out at me@mohammad.page
+me@mohammad.page
